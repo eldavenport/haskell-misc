@@ -1,3 +1,5 @@
-**dist-newstyle/*
+dist-newstyle/*
 *.o
 *.hi
+hello/hello
+test/test
